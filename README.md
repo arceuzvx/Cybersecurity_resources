@@ -1,4 +1,4 @@
-# Cyber_materials
+# 📖 **CYBER SECURITY RESOURCES** 📖
 A list of cool cybersecurity e-books for absolutely free :)
 
 # 🐍 Python e-books for cyber security
