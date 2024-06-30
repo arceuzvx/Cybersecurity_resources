@@ -1,5 +1,5 @@
 # 📖 **CYBER SECURITY RESOURCES** 📖
-A list of cool cybersecurity e-books for absolutely free :) (70 e-books!)
+A list of cool cybersecurity e-books for absolutely free :) 
 
 # 🐍 Python e-books for cyber security
 + [Python for Offensive PenTest-A guide to ethical hacking and penetration testing](https://mega.nz/file/9zdQmAzA#G0umpFTkFzZBlobrlwP-7h2q1xty6N9fhKnWYAwN2o4)
@@ -80,3 +80,13 @@ A list of cool cybersecurity e-books for absolutely free :) (70 e-books!)
 + [ETHICAL HACKING AND PENETRATION TESTING GUIDE.](https://mega.nz/file/Fq8RkDBT#D01uZMeHOW_lH-btEYu1lW2qCJK0MNMzW_TyX8wAHiI)
 + [ETHICAL HACKING 101 How to conduct professional pentestings in 21 days or less!](https://mega.nz/file/53FmySJD#w-NFfIYil_UV_KduI7PSPYg_EGMtEdNlHWelmYVHI7U)
 + [HackLOG Security & Ethical Hacking Handbook VOLUME 1 ANONYMITY](https://mega.nz/file/8jUi2QRa#3QayQ3fmTSE5bne-7BnfWiPyV6fnNoxAzhKbyZMiAhY)
+
+# 📱 Mobile Hacking
++ [Android Hacker's Handbook.](https://mega.nz/file/pyczWCLI#mv8ZE0K7e2IfHnqj4rX1gq-BoKKJEWm5NHnL2yMpHpg)
++ [iOS ApplicAtiOn Securitythe Definitive Guide for Hackers and Developers.](https://mega.nz/file/gnk3mYSB#lIeHw3ySAKIwtDp2ERmAKBoiDMbVOMh-6A7Q0rdv55E)
++ [Mobile Pentesting with FRIDA](https://mega.nz/file/UrNkjI5D#X_d1sYnieUrq77Bo5CYn24ngwYuGNHjxqNNKgJKl7sw)
++ [Mobile Security For Dummies](https://mega.nz/file/ZrUyUCjJ#epVsuCmoK2RZ5mka69lhfAyAa3admVldvI51jb_5zEo)
++ [Android Application Security](https://mega.nz/file/8mU3yRTZ#r-a15ykdqYapnkidh8W5xTZ44DZ5jOkcej1Wk2WPCYk)
++ [Mobile Device Exploitation Cookbook](https://mega.nz/file/EusVDQgD#fQ57ItOigNa8PwGEGMYWD1yUBGKeAsAhMxR5f7_y-Pw)
++ [Hacking Android](https://mega.nz/file/FiMyFAhQ#wrmfTZB6VwNn3GTXH5WrsUgBxUXaaEnkPr_VHdwVtj0)
++ [Mobile Exploitation - The past, present, and the future.](https://mega.nz/file/FrER3SLY#zVEsbehZCea4f4OS0uM7fRBxA8B1VkBZtXS7QQlF8eY)
