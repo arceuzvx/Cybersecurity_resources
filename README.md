@@ -80,6 +80,9 @@ A list of cool cybersecurity e-books for absolutely free :)
 + [ETHICAL HACKING AND PENETRATION TESTING GUIDE.](https://mega.nz/file/Fq8RkDBT#D01uZMeHOW_lH-btEYu1lW2qCJK0MNMzW_TyX8wAHiI)
 + [ETHICAL HACKING 101 How to conduct professional pentestings in 21 days or less!](https://mega.nz/file/53FmySJD#w-NFfIYil_UV_KduI7PSPYg_EGMtEdNlHWelmYVHI7U)
 + [HackLOG Security & Ethical Hacking Handbook VOLUME 1 ANONYMITY](https://mega.nz/file/8jUi2QRa#3QayQ3fmTSE5bne-7BnfWiPyV6fnNoxAzhKbyZMiAhY)
++ [THE HACKER PLAYBOOK 3 Practical Guide to Penetration Testing. (Much acclaimed updated version)](https://mega.nz/file/F6dGHYZL#WnL2FGRQf5aKm1YBRGTUAMvIbTXFLnB49XZWi4-cp0g)
++ [Hacking The Ultimate Hacking for Beginners How to Hack Hacking Intelligence.](https://mega.nz/file/RzFkQaqL#5Nsce2J0a3JQD73DrG7HOTpU_mUZ41rWf_DtOQiGbRQ)
++ [Prophet Hacker Android Hacking  Book ](https://mega.nz/file/Un9kGKYK#7-5VZohI9LOai6zMe79h_8GDLWAzqlqxqK7o8QAv1-c)
 
 # 📱 Mobile Hacking
 + [Android Hacker's Handbook.](https://mega.nz/file/pyczWCLI#mv8ZE0K7e2IfHnqj4rX1gq-BoKKJEWm5NHnL2yMpHpg)
@@ -90,3 +93,13 @@ A list of cool cybersecurity e-books for absolutely free :)
 + [Mobile Device Exploitation Cookbook](https://mega.nz/file/EusVDQgD#fQ57ItOigNa8PwGEGMYWD1yUBGKeAsAhMxR5f7_y-Pw)
 + [Hacking Android](https://mega.nz/file/FiMyFAhQ#wrmfTZB6VwNn3GTXH5WrsUgBxUXaaEnkPr_VHdwVtj0)
 + [Mobile Exploitation - The past, present, and the future.](https://mega.nz/file/FrER3SLY#zVEsbehZCea4f4OS0uM7fRBxA8B1VkBZtXS7QQlF8eY)
++ [ANDROID SECURITY INTERNALS -An In-Depth Guide to Android’s Security Architecture.](https://mega.nz/file/0vcDASoC#3y9VyNUvXR_8-eRkhfRneWwafPGQW87rbyU2DZ_STUE)
+
+# 🔧 API Security
++ [Extreme Networks Security API Reference Guide](https://mega.nz/file/4ykznCDK#owaKNuTUJTC4ElZD8G6ylhvqxig3ssEO4b8ZTM5w0rY)
++ [Advanced API Security Securing APIs with OAuth 2.0, OpenID Connect, JWS, and JWE.](https://mega.nz/file/13sgFQKS#QbWazP_Rho4ABzfvRXGVh0iVDUM8HkgGVcRMJhJ2wD4)
++ [Pro ASP-NET Web API Security Securing ASP-NET Web API LEARN TO SECURE YOUR ASP-NET WEB API SERVICES EFFECTIVELY.](https://mega.nz/file/ZyMjWRiJ#Ehhh5CU8JC5tB4dMzUrwG2uV9iBy29nXVLqOw3byltI)
+ 
+# 🗃️ Misc
++ [Cyber Security on Azure An IT Professional’s Guide to Microsoft Azure Security Center.](https://mega.nz/file/Vr80RQJb#uNZoG733rEGmqVgf2NkHuBu9KOVvXt0afP1JE6kDlKg)
++ [Practical Cloud Security A Guide for Secure Design and Deployment](https://mega.nz/file/Z6cUnAAR#986xZSb6MhdMbK-kN1ov4lCnro9lDdLdy5juL-Kgp3A)
