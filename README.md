@@ -66,6 +66,12 @@ A list of cool cybersecurity e-books for absolutely free :)
 + [Kali Linux Cookbook.](https://mega.nz/file/BnlmCK5L#MnP9bVCWmupj1s116lwYFUiCpSgt0RecAAmllklzZd0)
 + [Web Penetration Testing with Kali Linux.](https://mega.nz/file/03kQGCIb#isjHmE1tDHlN87F5NeYgBLhmkicLkW5cqb85dq43Ua4)
 + [The Ultimate Kali Linux book: Perform advanced penetration testing](https://drive.google.com/file/d/16tl5Fw6E21bN5Sl2osHW5lv923nl0Cgq/view)
++ [Web Penetration Testing with Kali Linux (Build your defense against web attacks)](https://mega.nz/file/1mFlwKzC#brozDpcIwJB3hJ9cPi1Dx8jZthb8rIHvp_NbEq7Hj_8)
++ [Hands-On Penetration Testing on Windows (Unleash Kali Linux, PowerShell, and Windows debugging tools for security testing and analysis)](https://mega.nz/file/xnlj3YYA#wXuHHZ4Lj8na6IZ-avxvrdF4I2ceOt_r1TB6fT8Pd6s)
++ [Kali Linux Tools (Digital Forensics Penetration Testing)](https://mega.nz/file/9mcByDzA#Vmdj_zjB-6sYRPw94pwuhoo6_V-RLkYQZLFesAqFZHQ)
++ [Kali Linux Wireless Pentesting and Security for Beginners](https://mega.nz/file/prshWa4Y#bfTx1vFAAUN0FvIUIFYgEPjPqrv81l2Rj76rf4r7Kq0)
++ [Linux Basics for Hackers_ Getting Started with Networking, Scripting, and Security in Kali](https://mega.nz/file/8zFxxYxY#fEFPbl7BSNg8WbFNPSCH-BXhNX4EFbduLmO_Sv-zgBs)
++ [Kali Linux Revealed Mastering the Penetration Testing Distribution](https://mega.nz/file/8zEGlJ7b#q4b3CqhClGIWdcDuBmOjQl_AUdwoWpYJi9m2bYPScCs)
 
 # 🕵️ Hacking/Penetration testing e-books
 + [Gray Hat Hacking The Ethical Hacker’s Handbook.](https://mega.nz/file/hyNkjYzI#2r_6HvaezNHX6-mUjdsVEnSHTFBk4OYQ6pK8QCtzDIw)
@@ -100,6 +106,13 @@ A list of cool cybersecurity e-books for absolutely free :)
 + [Mobile Exploitation - The past, present, and the future.](https://mega.nz/file/FrER3SLY#zVEsbehZCea4f4OS0uM7fRBxA8B1VkBZtXS7QQlF8eY)
 + [ANDROID SECURITY INTERNALS -An In-Depth Guide to Android’s Security Architecture.](https://mega.nz/file/0vcDASoC#3y9VyNUvXR_8-eRkhfRneWwafPGQW87rbyU2DZ_STUE)
 
+# 🎛️ IOT Hacking
++ [IOT Security Guide 2022](https://mega.nz/file/8jkBRRSI#k8NCiCLFW5l9xiPkCcyTfNs3kpr89dYQtQ60jFSTTDM)
++ [Handbook of Big Data and IoT Security](https://mega.nz/file/Jz0C3YQT#Vyn175zwT3B_qCarZXXha4Vmh2eBELaXAgNNdHT1b14)
++ [Hacking IoT for Bug Bounties](https://mega.nz/file/V3VliDhJ#Y2i3KnZYJW1tfLrznZWYOBmezukmbDzdANoNGw1vOTI)
++ [The IoT Hacker’s Handbook A Practical Guide to Hacking the Internet of Things](https://mega.nz/file/8jV0AZiD#EWm8ZQhWcJO4FnYpM_CLfwMaRjg0PrNFip1cX0W9PDY)
++ [PRACTICAL IOT HACKING. The Definitive Guide to Attacking the Internet of Things](https://mega.nz/file/d2E0DA7L#V198m-Q_fPYSpuH0ZFRbooC526GQbMdIkFOAVHruz-c)
+
 # 🔧 API Security
 + [Extreme Networks Security API Reference Guide](https://mega.nz/file/4ykznCDK#owaKNuTUJTC4ElZD8G6ylhvqxig3ssEO4b8ZTM5w0rY)
 + [Advanced API Security Securing APIs with OAuth 2.0, OpenID Connect, JWS, and JWE.](https://mega.nz/file/13sgFQKS#QbWazP_Rho4ABzfvRXGVh0iVDUM8HkgGVcRMJhJ2wD4)
@@ -121,3 +134,4 @@ A list of cool cybersecurity e-books for absolutely free :)
 + [Nmap Official Guide+ Scripts.](https://mega.nz/file/A21nTB5S#9rfwjADO1qrXhP2Nbd1U8EKaV3LFf8Lg3xsT-5NNkUc)
 + [Network Security Bible.](https://mega.nz/file/AuVFSRzJ#W3Xg4TkWvRYPCOzPbdTK3wCfh_ThEXPcybGeClxdAGI)
 + [Anti-Hacker Tool Kit](https://mega.nz/file/Rm1RlZBI#ej1Xr-0Fa1xARsOh9wpFzkCy9DomxenKuGHf4RSy8yU)
++ [TOR DARKNET BUNDLE (5 in 1) Master the ART OF INVISIBILITY (Bitcoins, Hacking, Kali Linux)](https://mega.nz/file/kudhSLYR#zX9PBwSRMLlIy4X-uYkhqu-tb3Ia2ALzSeJYKvsLiyY)
