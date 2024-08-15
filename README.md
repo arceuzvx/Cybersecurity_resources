@@ -104,6 +104,14 @@ A list of cool cybersecurity e-books for absolutely free :)
 + [Extreme Networks Security API Reference Guide](https://mega.nz/file/4ykznCDK#owaKNuTUJTC4ElZD8G6ylhvqxig3ssEO4b8ZTM5w0rY)
 + [Advanced API Security Securing APIs with OAuth 2.0, OpenID Connect, JWS, and JWE.](https://mega.nz/file/13sgFQKS#QbWazP_Rho4ABzfvRXGVh0iVDUM8HkgGVcRMJhJ2wD4)
 + [Pro ASP-NET Web API Security Securing ASP-NET Web API LEARN TO SECURE YOUR ASP-NET WEB API SERVICES EFFECTIVELY.](https://mega.nz/file/ZyMjWRiJ#Ehhh5CU8JC5tB4dMzUrwG2uV9iBy29nXVLqOw3byltI)
+
+# 🔢 Cryptography
++ [Serious Cryptography_ A Practical Introduction to Modern Encryption](https://mega.nz/file/Z2U3CCab#WYCVOgxexq2nh2L62Dpr4_H5EvbMPWWIHmym6qm92cQ)
++ [Introduction to Cryptography_ Principles and Applications, 2nd Edition (Information Security and Cryptography)](https://mega.nz/file/Nn8yGQwB#ADGkRTRD_hHMuZUByRHmzsui1q1sbRXb6f5y1YFGk-8)
++ [Cryptography and network security](https://mega.nz/file/AzdHGQwb#FD9UriZIOdFm7AxWqKlpUhVaMMwfTSWwm7O4Fp7JAD8)
++ [Applied Cryptography in .NET and Azure Key Vault_ A Practical Guide to Encryption in .NET and .NET Core](https://mega.nz/file/47E3UYDJ#BGt8WpTKUTRXnfQ1wjkQslv5vglUkfO1UtHLeRqq1zs)
++ [Hands-On Cryptography with Python_ Leverage the Power of Python to Encrypt and Decrypt Data](https://mega.nz/file/ImVnBQaR#ecVuKeVLL9N_139KX9YHXbScK8UTVdxl1Asw-vymMxs)
++ [Cracking Codes with Python_ An Introduction to Building and Breaking Ciphers](https://mega.nz/file/x3MwwLbI#o6VSk3Fiowt_EO4ldD1uNezWCXuDCbE_yUUvh_QXL3Q)
  
 # 🗃️ Misc
 + [Cyber Security on Azure An IT Professional’s Guide to Microsoft Azure Security Center.](https://mega.nz/file/Vr80RQJb#uNZoG733rEGmqVgf2NkHuBu9KOVvXt0afP1JE6kDlKg)
