@@ -94,6 +94,12 @@ A list of cool cybersecurity e-books for absolutely free :)
 + [Pentesting Azure Applications.](https://mega.nz/file/83UxGLDY#-mz_Yfuh3aTNSIDWWB4YjKm8bDZVko6fHxGjOjp8Om4)
 + [Gray Hat C# a Hacker’s Guide to Creating and automating Security tools by Brandon Perry](https://mega.nz/file/561VBTYL#lhOPeO9DWei3ZLFCbNRpTuSKbLQk1PjSWpPDuvVhT0w)
 + [Antivirus Hackers handbook.](https://mega.nz/file/ArUjmSyZ#zVtTgrPpxUhpm4FvS81x1zV9QxByHQ2Jdu62gfM-Ymg)
++ [HACKING EXPOSED™ 6: NETWORK SECURITY SECRETS & SOLUTIONS](https://mega.nz/file/grlikLyJ#fd4RF5d3Osharerzu68dKbJZAhydAvTsn9ooYc6dMF4)
++ [HACKING SECRETS EXPOSED -A BEGINNER’S GUIDE](https://mega.nz/file/l70g0byK#OnlDJs4uaTVATnieZdkbxfCJzWD9ozwN8omFin-2-FY)
++ [Hacking Exposed™ Web Applications 3](https://mega.nz/file/xmkAhYYB#izv3v9qLfoZpoml6AjkjFQFbTnt1C_rbPMmv3Rw4j4k)
++ [HACKING EXPOSED: NETWORK SECURITY SECRETS & SOLUTIONS 2nd Edition](https://mega.nz/file/JvUWFIST#8Ptt4_bT6nurez4C7iBxOuxYEqVyketPHzKZF7deQhE)
++ [Hacking Exposed™ Windows.](https://mega.nz/file/MiUHiSZa#gccpQGFJ-U2E17im4yAHHNODIv6n_C7AXE82fkil5rY)
++ [Hacking Exposed - Linux_ Linux Security Secrets](https://mega.nz/file/wnkTUZha#h3B2LOczQ0NQlEB18UVCPl_E-e5G5bbR5ZtntZaLdFE)
 
 # 📱 Mobile Hacking
 + [Android Hacker's Handbook.](https://mega.nz/file/pyczWCLI#mv8ZE0K7e2IfHnqj4rX1gq-BoKKJEWm5NHnL2yMpHpg)
