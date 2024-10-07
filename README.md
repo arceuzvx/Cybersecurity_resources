@@ -1,5 +1,5 @@
 # 📖 **CYBER SECURITY RESOURCES** 📖
-A list of cool cybersecurity e-books for absolutely free :) 
+A list of cool cybersecurity e-books for absolutely free
 
 # 🐍 Python e-books for cyber security
 + [Python for Offensive PenTest-A guide to ethical hacking and penetration testing](https://mega.nz/file/9zdQmAzA#G0umpFTkFzZBlobrlwP-7h2q1xty6N9fhKnWYAwN2o4)
