@@ -57,6 +57,7 @@ A list of cool cybersecurity e-books for absolutely free
 + [Incident Response & Computer Forensics, Third Edition.](https://mega.nz/file/An9GSTbR#CDNGd7HsS-1JsA61Zk3G0Y9v6SMbvczDttPG5VBlryE)
 + [COMPUTER FORENSICS Cybercriminals, Laws, and Evidence.](https://mega.nz/file/sz8hxRIQ#wuDQusUYkuRu6hZMRDazgcR2GqhoBGJHcrYNJw03Riw)
 + [Guide to Computer Forensics and Investigations: Processing Digital Evidence.](https://mega.nz/file/5u8UBBIT#TsKEgmARIQXrtTJRrOGRFX-Mr1nJofCW5lFtcKx712c)
++ [Hacks Leaks, and Revelations The Art of Analyzing Hacked and Leaked Data](https://mega.nz/file/VyUWGaZZ#OsY7iomYuRGWzOym8YW-xRTfZjYYJ7tJ9p7-Mbcy4Jk)
 
 # 🐉 Kali Linux e-books
 + [Basic Security Testing with Kali Linux.](https://mega.nz/file/k7lGhLwb#ge8EiyjxBhz3UK2B9PyatlDeDa73C_s_aEOFQhlkUvE)
@@ -100,6 +101,8 @@ A list of cool cybersecurity e-books for absolutely free
 + [HACKING EXPOSED: NETWORK SECURITY SECRETS & SOLUTIONS 2nd Edition](https://mega.nz/file/JvUWFIST#8Ptt4_bT6nurez4C7iBxOuxYEqVyketPHzKZF7deQhE)
 + [Hacking Exposed™ Windows.](https://mega.nz/file/MiUHiSZa#gccpQGFJ-U2E17im4yAHHNODIv6n_C7AXE82fkil5rY)
 + [Hacking Exposed - Linux_ Linux Security Secrets](https://mega.nz/file/wnkTUZha#h3B2LOczQ0NQlEB18UVCPl_E-e5G5bbR5ZtntZaLdFE)
++ [Black Hat Bash Scripting for Hackers and Pentesters](https://mega.nz/file/1r9ViKjJ#rCjNeEx4eQgt4TnrC73DB-nv2IMDQ8LZOiqX5AvLHFg)
++ [Black Hat Go Programming for Hackers and Pentesters](https://mega.nz/file/1r9ViKjJ#rCjNeEx4eQgt4TnrC73DB-nv2IMDQ8LZOiqX5AvLHFg)
 
 # 📱 Mobile Hacking
 + [Android Hacker's Handbook.](https://mega.nz/file/pyczWCLI#mv8ZE0K7e2IfHnqj4rX1gq-BoKKJEWm5NHnL2yMpHpg)
@@ -141,3 +144,7 @@ A list of cool cybersecurity e-books for absolutely free
 + [Network Security Bible.](https://mega.nz/file/AuVFSRzJ#W3Xg4TkWvRYPCOzPbdTK3wCfh_ThEXPcybGeClxdAGI)
 + [Anti-Hacker Tool Kit](https://mega.nz/file/Rm1RlZBI#ej1Xr-0Fa1xARsOh9wpFzkCy9DomxenKuGHf4RSy8yU)
 + [TOR DARKNET BUNDLE (5 in 1) Master the ART OF INVISIBILITY (Bitcoins, Hacking, Kali Linux)](https://mega.nz/file/kudhSLYR#zX9PBwSRMLlIy4X-uYkhqu-tb3Ia2ALzSeJYKvsLiyY)
++ [EVADING EDR A COMPREHENSIVE GUIDE TO DEFEATING ENDPOINT DETECTION SYSTEMS ](https://mega.nz/file/Eu8VSABD#kSLyZzsjA2lQx9hYx3axSENdEtd7AmkTIxhXFT6WKdo)
++ [Evading EDR The Definitive Guide to Defeating Endpoint Detection Systems.](https://mega.nz/file/JmE0XbpI#LRG5b4zrZHWgXDZuFcrdWV1GlObkDVZt25H23gt2lOI)
++ [Windows Security Internals with PowerShell](https://mega.nz/file/83d1BBja#INXRQ_tj5frJtUiQt-XzXBAxTzETVzU0ZSPJCqPocHc)
++ [Infrastructure as Code Evolving systems in the Cloud](https://mega.nz/file/hz1lVCSZ#RzOhoiYFfaRs-FBHrDDXIjoMfhl6au4cl1U9gIHkTtc)
