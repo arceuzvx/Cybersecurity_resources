@@ -1,6 +1,6 @@
- # Cybersecurity Resources Library 📚
+ # Cybersecurity Resources Ebooks
 
- A curated list of Cyber security ebooks for absolutely free! Start Learning today at your own pace
+ A curated list of Cybersecurity ebooks (Updated 2025) topic wise for absolutely free! Start Learning today at your own pace 🤗
 
 ## Python e-books for cyber security
 
@@ -158,3 +158,7 @@
 - [Evading EDR: The Definitive Guide to Defeating Endpoint Detection Systems](https://mega.nz/file/JmE0XbpI#LRG5b4zrZHWgXDZuFcrdWV1GlObkDVZt25H23gt2lOI)
 - [Windows Security Internals with PowerShell](https://mega.nz/file/83d1BBja#INXRQ_tj5frJtUiQt-XzXBAxTzETVzU0ZSPJCqPocHc)
 - [Infrastructure as Code: Evolving Systems in the Cloud](https://mega.nz/file/hz1lVCSZ#RzOhoiYFfaRs-FBHrDDXIjoMfhl6au4cl1U9gIHkTtc)
+
+
+### Found this helpful?
+Drop a 🌟 and share it with your fellow Cybersecurity enthusiasts and start learning together! 🤩
