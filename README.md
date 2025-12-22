@@ -1,8 +1,30 @@
- # Cybersecurity Resources Ebooks
+# 🚀 Cybersecurity Learning Roadmap (2026)
+### Free Cybersecurity Ebooks, References & Study Resources
 
- A curated list of Cybersecurity ebooks (Updated 2025) topic wise for absolutely free! Start Learning today at your own pace 🤗
+A **comprehensive, roadmap-driven collection of free cybersecurity ebooks** organized by **learning stage and specialization**.
 
-## Python e-books for cyber security
+This repository is built for:
+- Students and beginners entering cybersecurity
+- SOC Analysts & Security Engineers
+- Malware Analysts & Digital Forensics learners
+- Penetration Testers & Red Team aspirants
+- Self-learners preparing for internships, certifications, and jobs
+
+> 🎯 Goal: remove confusion, preserve depth, and help you learn cybersecurity in the *right order*.
+
+---
+
+## 🧭 How to Use This Repository
+- Follow the roadmap: **Foundations → Defensive → Offensive → Specializations**
+- Ebooks are **reference material**, not mandatory reading
+- Pick resources aligned with your **career track**
+- You do **not** need to read everything
+
+---
+
+## 🟢 FOUNDATIONS — Core Knowledge & Skills
+
+### Python e-books for cyber security
 
 - [Python for Offensive PenTest – A Guide to Ethical Hacking and Penetration Testing](https://mega.nz/file/9zdQmAzA#G0umpFTkFzZBlobrlwP-7h2q1xty6N9fhKnWYAwN2o4)
 - [Violent Python for Hackers, Forensic Analysts, Penetration Testers and Security Engineers](https://mega.nz/file/hrdyER4Z#Yw2RShTIlyv1oCj1pnrJKZ4bjRJB9ppF65g6_CkgB20)
@@ -14,7 +36,9 @@
 - [Mastering Python Networking](https://mega.nz/file/ArlEFIqa#fmNxFhInh04deqtoOiQREZG6Dtvqgla9LeLmdk0r5Bc)
 - [Machine Learning and Security](https://mega.nz/file/UvdCRBpA#0Sy1Onol4pIV4qx5Om0huLh7pKx8QLpdrqmk6XQmTPU)
 
-## Malware Analysis e-books
+## 🟡 DEFENSIVE — Blue Team, SOC & Incident Response
+
+### Malware Analysis e-books
 
 - [Malware Analysis Fundamentals](https://mega.nz/file/s2tzEbDQ#dgL2kTCZ5PMGP_Ybb4x_nop7WsQP0nxAN7uUOvOjNeU)
 - [THE IDA PRO BOOK](https://mega.nz/file/omMykYgZ#i6tgJkk6TDNltbGw-mCcetH9C4xmR6znKMXvHogWNx0)
@@ -32,7 +56,10 @@
 - [Malware Analysis Techniques: Tricks for the Triage of Adversarial Software](https://mega.nz/file/tu91TKLY#KpPfG5VV3qPTnBQqnfeTacR_DPwmCJSlW1g91TsRssU)
 - [Malware Data Science: Attack Detection and Attribution](https://mega.nz/file/pmEB2LTZ#p-PuEhR6TCtcpT5V2UevJAzy0wrjxjBvwjByGVn886A)
 
-## Digital Forensics Analysis e-books
+---
+## 🧠 Digital Forensics & Incident Response
+
+### Digital Forensics Analysis e-books
 
 - [The Art of Memory Forensics](https://mega.nz/file/hr0z2TqQ#8WI3aZG37uDroAW4mzouyxbR9aMeej0TdktNlIFa9S0)
 - [Practical Forensic Imaging](https://mega.nz/file/VvliCSID#4VG28zt7zII8dYd3I0K5gPOkBYA2G_spCRMgb2T6C94)
@@ -63,23 +90,9 @@
 - [Guide to Computer Forensics and Investigations](https://mega.nz/file/5u8UBBIT#TsKEgmARIQXrtTJRrOGRFX-Mr1nJofCW5lFtcKx712c)
 - [Hacks, Leaks, and Revelations](https://mega.nz/file/VyUWGaZZ#OsY7iomYuRGWzOym8YW-xRTfZjYYJ7tJ9p7-Mbcy4Jk)
 
-## Kali Linux e-books
+## 🔴 OFFENSIVE — Pentesting & Red Team
 
-- [Basic Security Testing with Kali Linux](https://mega.nz/file/k7lGhLwb#ge8EiyjxBhz3UK2B9PyatlDeDa73C_s_aEOFQhlkUvE)
-- [Kali Linux Network Scanning Cookbook](https://mega.nz/file/gi9zlZRA#txHoGtSR6LkqCZRSaezXZAKugmcczLL8tQ8hGipGBFQ)
-- [Kali Linux - Assuring Security by Penetration Testing](https://mega.nz/file/1vsjARwb#GOZqRaCMBdl9K7ARlzi-we8ZbWudqdOi1W1Ogux0abg)
-- [Kali Linux 2 Windows Penetration Testing](https://mega.nz/file/IjlgABCI#kGwicfEkg-DXKEemI1XEcsG6LJ-gU0LZW5VojiXSDE8)
-- [Kali Linux Cookbook](https://mega.nz/file/BnlmCK5L#MnP9bVCWmupj1s116lwYFUiCpSgt0RecAAmllklzZd0)
-- [Web Penetration Testing with Kali Linux](https://mega.nz/file/03kQGCIb#isjHmE1tDHlN87F5NeYgBLhmkicLkW5cqb85dq43Ua4)
-- [The Ultimate Kali Linux Book - Perform Advanced Penetration Testing](https://drive.google.com/file/d/16tl5Fw6E21bN5Sl2osHW5lv923nl0Cgq/view)
-- [Web Penetration Testing with Kali Linux (Build your defense against web attacks)](https://mega.nz/file/1mFlwKzC#brozDpcIwJB3hJ9cPi1Dx8jZthb8rIHvp_NbEq7Hj_8)
-- [Hands-On Penetration Testing on Windows](https://mega.nz/file/xnlj3YYA#wXuHHZ4Lj8na6IZ-avxvrdF4I2ceOt_r1TB6fT8Pd6s)
-- [Kali Linux Tools (Digital Forensics Penetration Testing)](https://mega.nz/file/9mcByDzA#Vmdj_zjB-6sYRPw94pwuhoo6_V-RLkYQZLFesAqFZHQ)
-- [Kali Linux Wireless Pentesting and Security for Beginners](https://mega.nz/file/prshWa4Y#bfTx1vFAAUN0FvIUIFYgEPjPqrv81l2Rj76rf4r7Kq0)
-- [Linux Basics for Hackers](https://mega.nz/file/8zFxxYxY#fEFPbl7BSNg8WbFNPSCH-BXhNX4EFbduLmO_Sv-zgBs)
-- [Kali Linux Revealed - Mastering the Penetration Testing Distribution](https://mega.nz/file/8zEGlJ7b#q4b3CqhClGIWdcDuBmOjQl_AUdwoWpYJi9m2bYPScCs)
-
-## Hacking/Penetration testing e-books
+### Hacking/Penetration testing e-books
 
 - [Gray Hat Hacking The Ethical Hacker's Handbook](https://mega.nz/file/hyNkjYzI#2r_6HvaezNHX6-mUjdsVEnSHTFBk4OYQ6pK8QCtzDIw)
 - [Gray Hat Hacking: The Ethical Hacker's Handbook, Fifth Edition](https://mega.nz/file/w6MxHaQJ#2OCTuDz-kH2XdlaBVbieBOchECCPVa4KQsKQWlhlNIQ)
@@ -110,7 +123,25 @@
 - [Black Hat Bash Scripting for Hackers and Pentesters](https://mega.nz/file/1r9ViKjJ#rCjNeEx4eQgt4TnrC73DB-nv2IMDQ8LZOiqX5AvLHFg)
 - [Black Hat Go: Programming for Hackers and Pentesters](https://mega.nz/file/1r9ViKjJ#rCjNeEx4eQgt4TnrC73DB-nv2IMDQ8LZOiqX5AvLHFg)
 
-## Mobile Hacking
+## 🔵 SPECIALIZATIONS — Platforms & Domains
+
+### Kali Linux e-books
+
+- [Basic Security Testing with Kali Linux](https://mega.nz/file/k7lGhLwb#ge8EiyjxBhz3UK2B9PyatlDeDa73C_s_aEOFQhlkUvE)
+- [Kali Linux Network Scanning Cookbook](https://mega.nz/file/gi9zlZRA#txHoGtSR6LkqCZRSaezXZAKugmcczLL8tQ8hGipGBFQ)
+- [Kali Linux - Assuring Security by Penetration Testing](https://mega.nz/file/1vsjARwb#GOZqRaCMBdl9K7ARlzi-we8ZbWudqdOi1W1Ogux0abg)
+- [Kali Linux 2 Windows Penetration Testing](https://mega.nz/file/IjlgABCI#kGwicfEkg-DXKEemI1XEcsG6LJ-gU0LZW5VojiXSDE8)
+- [Kali Linux Cookbook](https://mega.nz/file/BnlmCK5L#MnP9bVCWmupj1s116lwYFUiCpSgt0RecAAmllklzZd0)
+- [Web Penetration Testing with Kali Linux](https://mega.nz/file/03kQGCIb#isjHmE1tDHlN87F5NeYgBLhmkicLkW5cqb85dq43Ua4)
+- [The Ultimate Kali Linux Book - Perform Advanced Penetration Testing](https://drive.google.com/file/d/16tl5Fw6E21bN5Sl2osHW5lv923nl0Cgq/view)
+- [Web Penetration Testing with Kali Linux (Build your defense against web attacks)](https://mega.nz/file/1mFlwKzC#brozDpcIwJB3hJ9cPi1Dx8jZthb8rIHvp_NbEq7Hj_8)
+- [Hands-On Penetration Testing on Windows](https://mega.nz/file/xnlj3YYA#wXuHHZ4Lj8na6IZ-avxvrdF4I2ceOt_r1TB6fT8Pd6s)
+- [Kali Linux Tools (Digital Forensics Penetration Testing)](https://mega.nz/file/9mcByDzA#Vmdj_zjB-6sYRPw94pwuhoo6_V-RLkYQZLFesAqFZHQ)
+- [Kali Linux Wireless Pentesting and Security for Beginners](https://mega.nz/file/prshWa4Y#bfTx1vFAAUN0FvIUIFYgEPjPqrv81l2Rj76rf4r7Kq0)
+- [Linux Basics for Hackers](https://mega.nz/file/8zFxxYxY#fEFPbl7BSNg8WbFNPSCH-BXhNX4EFbduLmO_Sv-zgBs)
+- [Kali Linux Revealed - Mastering the Penetration Testing Distribution](https://mega.nz/file/8zEGlJ7b#q4b3CqhClGIWdcDuBmOjQl_AUdwoWpYJi9m2bYPScCs)
+
+### Mobile Hacking
 
 - [Android Hacker's Handbook](https://mega.nz/file/pyczWCLI#mv8ZE0K7e2IfHnqj4rX1gq-BoKKJEWm5NHnL2yMpHpg)
 - [iOS Application Security](https://mega.nz/file/gnk3mYSB#lIeHw3ySAKIwtDp2ERmAKBoiDMbVOMh-6A7Q0rdv55E)
@@ -122,7 +153,7 @@
 - [Mobile Exploitation - The Past, Present, and the Future](https://mega.nz/file/FrER3SLY#zVEsbehZCea4f4OS0uM7fRBxA8B1VkBZtXS7QQlF8eY)
 - [Android Security Internals - An In-Depth Guide to Android's Security Architecture](https://mega.nz/file/0vcDASoC#3y9VyNUvXR_8-eRkhfRneWwafPGQW87rbyU2DZ_STUE)
 
-## IOT Hacking
+### IOT Hacking
 
 - [IOT Security Guide 2022](https://mega.nz/file/8jkBRRSI#k8NCiCLFW5l9xiPkCcyTfNs3kpr89dYQtQ60jFSTTDM)
 - [Handbook of Big Data and IoT Security](https://mega.nz/file/Jz0C3YQT#Vyn175zwT3B_qCarZXXha4Vmh2eBELaXAgNNdHT1b14)
@@ -130,12 +161,12 @@
 - [The IoT Hacker's Handbook](https://mega.nz/file/8jV0AZiD#EWm8ZQhWcJO4FnYpM_CLfwMaRjg0PrNFip1cX0W9PDY)
 - [PRACTICAL IOT HACKING: The Definitive Guide to Attacking the Internet of Things](https://mega.nz/file/d2E0DA7L#V198m-Q_fPYSpuH0ZFRbooC526GQbMdIkFOAVHruz-c)
 
-## API Security
+### API Security
 - [Extreme Networks Security API Reference Guide](https://mega.nz/file/4ykznCDK#owaKNuTUJTC4ElZD8G6ylhvqxig3ssEO4b8ZTM5w0rY)
 - [Advanced API Security](https://mega.nz/file/13sgFQKS#QbWazP_Rho4ABzfvRXGVh0iVDUM8HkgGVcRMJhJ2wD4)
 - [Pro ASP-NET Web API Security](https://mega.nz/file/ZyMjWRiJ#Ehhh5CU8JC5tB4dMzUrwG2uV9iBy29nXVLqOw3byltI)
 
-## Cryptography
+### Cryptography
 
 - [Serious Cryptography](https://mega.nz/file/Z2U3CCab#WYCVOgxexq2nh2L62Dpr4_H5EvbMPWWIHmym6qm92cQ)
 - [Introduction to Cryptography](https://mega.nz/file/Nn8yGQwB#ADGkRTRD_hHMuZUByRHmzsui1q1sbRXb6f5y1YFGk-8)
@@ -144,7 +175,7 @@
 - [Hands-On Cryptography with Python](https://mega.nz/file/ImVnBQaR#ecVuKeVLL9N_139KX9YHXbScK8UTVdxl1Asw-vymMxs)
 - [Cracking Codes with Python](https://mega.nz/file/x3MwwLbI#o6VSk3Fiowt_EO4ldD1uNezWCXuDCbE_yUUvh_QXL3Q)
 
-## Miscellaneous
+### Miscellaneous
 
 - [Cyber Security on Azure: An IT Professional's Guide to Microsoft Azure Security Center](https://mega.nz/file/Vr80RQJb#uNZoG733rEGmqVgf2NkHuBu9KOVvXt0afP1JE6kDlKg)
 - [Practical Cloud Security: A Guide for Secure Design and Deployment](https://mega.nz/file/Z6cUnAAR#986xZSb6MhdMbK-kN1ov4lCnro9lDdLdy5juL-Kgp3A)
@@ -161,4 +192,5 @@
 
 
 ### Found this helpful?
-Drop a 🌟 and share it with your fellow Cybersecurity enthusiasts and start learning together! 🤩
+Drop a 🌟 and share 📎 it with your fellow Cybersecurity enthusiasts and start learning together! 🤩
+Follow me on [X/twitter](https://x.com/arceuzvx) to connect 🩷
