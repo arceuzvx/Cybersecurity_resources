@@ -1,5 +1,6 @@
-# 🚀 Cybersecurity Learning Roadmap (2026)
-### Free Cybersecurity Ebooks, References & Study Resources
+# Awesome Cybersecurity Resources (2026)
+### Free Cybersecurity Ebooks, Roadmaps, CTFs, References & Study Resources
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A **comprehensive, roadmap-driven collection of free cybersecurity ebooks** organized by **learning stage and specialization**.
 
@@ -21,6 +22,7 @@ This repository is built for:
 - You do **not** need to read everything
 
 ---
+# BEGINNER
 
 ## 🟢 FOUNDATIONS — Core Knowledge & Skills
 
@@ -57,6 +59,8 @@ This repository is built for:
 - [Malware Data Science: Attack Detection and Attribution](https://mega.nz/file/pmEB2LTZ#p-PuEhR6TCtcpT5V2UevJAzy0wrjxjBvwjByGVn886A)
 
 ---
+# INTERMEDIATE
+
 ## 🧠 Digital Forensics & Incident Response
 
 ### Digital Forensics Analysis e-books
@@ -122,6 +126,10 @@ This repository is built for:
 - [Hacking Exposed - Linux: Linux Security Secrets](https://mega.nz/file/wnkTUZha#h3B2LOczQ0NQlEB18UVCPl_E-e5G5bbR5ZtntZaLdFE)
 - [Black Hat Bash Scripting for Hackers and Pentesters](https://mega.nz/file/1r9ViKjJ#rCjNeEx4eQgt4TnrC73DB-nv2IMDQ8LZOiqX5AvLHFg)
 - [Black Hat Go: Programming for Hackers and Pentesters](https://mega.nz/file/1r9ViKjJ#rCjNeEx4eQgt4TnrC73DB-nv2IMDQ8LZOiqX5AvLHFg)
+
+---
+
+# ADVANCED 
 
 ## 🔵 SPECIALIZATIONS — Platforms & Domains
 
@@ -190,6 +198,64 @@ This repository is built for:
 - [Windows Security Internals with PowerShell](https://mega.nz/file/83d1BBja#INXRQ_tj5frJtUiQt-XzXBAxTzETVzU0ZSPJCqPocHc)
 - [Infrastructure as Code: Evolving Systems in the Cloud](https://mega.nz/file/hz1lVCSZ#RzOhoiYFfaRs-FBHrDDXIjoMfhl6au4cl1U9gIHkTtc)
 
+---
+
+## 🧪 Practice Platforms
+
+Hands-on platforms to practice cybersecurity skills through labs, challenges, and simulated environments.
+
+
+### General Cybersecurity Labs
+- [TryHackMe](https://tryhackme.com/) – Beginner-friendly guided cybersecurity labs and learning paths.
+- [Hack The Box](https://www.hackthebox.com/) – Advanced penetration testing labs with realistic vulnerable machines.
+- [OverTheWire](https://overthewire.org/wargames/) – Wargames focused on Linux, networking, and security fundamentals.
+- [PicoCTF](https://picoctf.org/) – Beginner-oriented CTF platform with challenges from Carnegie Mellon.
+- [VulnHub](https://www.vulnhub.com/) – Downloadable vulnerable VMs for offline practice.
+- [RangeForce Community Edition](https://rangeforce.com/) – Blue team and defensive security training labs.
+
+
+### Web Security Practice
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security) – Interactive labs covering web vulnerabilities.
+- [PentesterLab](https://pentesterlab.com/) – Hands-on web exploitation exercises.
+- [Root Me](https://www.root-me.org/) – Web hacking, cryptography, reverse engineering, and more.
+- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) – Intentionally vulnerable web application.
+- [Google Gruyere](https://google-gruyere.appspot.com/) – Web vulnerability training app from Google.
+
+
+### Capture The Flag Platforms
+- [CTFtime](https://ctftime.org/) – Global calendar and rankings of CTF competitions.
+- [pwnable.kr](https://pwnable.kr/) – Binary exploitation and pwn challenges.
+- [pwnable.tw](https://pwnable.tw/) – Advanced exploitation challenges.
+- [RingZer0 CTF](https://ringzer0ctf.com/) – Multiple categories including crypto, web, and reversing.
+
+
+### Cloud Security Practice
+- [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat) – AWS security scenarios for hands-on learning.
+- [flAWS Cloud](http://flaws.cloud/) – AWS security challenge environment.
+- [flAWS2](http://flaws2.cloud/) – Advanced AWS security challenges.
+- [Cloud Security Labs](https://cloudsecuritylabs.com/) – Interactive cloud security exercises.
+
+
+### Malware Analysis Practice
+- [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/) – Real malware network traffic samples.
+- [Malware Unicorn Workshops](https://malwareunicorn.org/workshops/) – Malware analysis training materials.
+
+
+### Blue Team / Defensive Security
+- [Blue Team Labs Online](https://blueteamlabs.online/) – SOC and incident response training labs.
+- [CyberDefenders](https://cyberdefenders.org/) – DFIR and blue team challenges.
+- [LetsDefend](https://letsdefend.io/) – SOC analyst simulation platform.
+
+
+### Reverse Engineering Practice
+- [Crackmes.one](https://crackmes.one/) – Reverse engineering challenges.
+- [Microcorruption](https://microcorruption.com/) – Embedded system exploitation wargame.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/image?repos=arceuzvx/Cybersecurity_resources&type=date&legend=top-left)](https://www.star-history.com/?repos=arceuzvx%2FCybersecurity_resources&type=date&legend=top-left)
+
+---
 
 ### Found this helpful?
 Drop a 🌟 and share 📎 it with your fellow Cybersecurity enthusiasts and start learning together! 🤩
